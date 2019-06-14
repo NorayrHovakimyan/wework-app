@@ -1,0 +1,4 @@
+@font-face {
+  font-family: 'Proxima Nova';
+  src: url('/assets/fonts/ProximaNova-Regular.otf') format('truetype'), url(/assets/fonts/Proxima\ Nova\ Alt\ Bold.otf) format('truetype'), url(/assets/fonts/Proxima\ Nova\ Alt\ Light.otf) format('truetype'), url(/assets/fonts/Proxima\ Nova\ Alt\ Thin.otf) format('truetype'), url(/assets/fonts/Proxima\ Nova\ Black.otf) format('truetype'), url(/assets/fonts/Proxima\ Nova\ Bold.otf) format('truetype'), url(/assets/fonts/Proxima\ Nova\ Extrabold.otf) format('truetype'), url(/assets/fonts/Proxima\ Nova\ Thin.otf) format('truetype');
+}
